@@ -1,2 +1,2 @@
 # Data-Science-MotherBox
-Data Science pracice, tutorials, projects
+Data Science practice, tutorials, projects
